@@ -9,7 +9,7 @@ const Navbar = () => {
         <li><a href="#">Harini</a></li>
         <li><a href="#">About</a></li>
         <li><a href="#">Play</a></li>
-        <li><a href="#">Info</a></li>
+        <li><a href="#">Information</a></li>
       </ul>
       <button className="navbar-button">Get Started</button>
     </div>
