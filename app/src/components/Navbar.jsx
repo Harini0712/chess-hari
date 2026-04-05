@@ -6,7 +6,7 @@ const Navbar = () => {
     <div className="navbar">
       <div className="navbar-brand">BK Chess</div>
       <ul className="navbar-links">
-        <li><a href="#">Home</a></li>
+        <li><a href="#">Harini</a></li>
         <li><a href="#">About</a></li>
         <li><a href="#">Play</a></li>
         <li><a href="#">Info</a></li>
