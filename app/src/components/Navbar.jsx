@@ -4,9 +4,9 @@ import './Navbar.css';
 const Navbar = () => {
   return (
     <div className="navbar">
-      <div className="navbar-brand">BK Chess</div>
+      <div className="navbar-brand">Harini Chess</div>
       <ul className="navbar-links">
-        <li><a href="#">Harini</a></li>
+        <li><a href="#">BK</a></li>
         <li><a href="#">About</a></li>
         <li><a href="#">Play</a></li>
         <li><a href="#">Information</a></li>
